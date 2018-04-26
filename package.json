@@ -1,0 +1,24 @@
+{
+  "name": "sort-json",
+  "version": "1.0.0",
+  "description": "Sorts JSON in files",
+  "main": "sort-json.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "sort",
+    "json",
+    "attributes",
+    "properties"
+  ],
+  "author": "Ted Weatherly",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "glob": "^7.1.2",
+    "minimist": "^1.2.0"
+  }
+}
