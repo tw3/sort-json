@@ -4,7 +4,8 @@ Sorts the attributes in a JSON file
 
 installation
 ------------
-```git clone https://github.com/tw3/sort-json.git
+```
+git clone https://github.com/tw3/sort-json.git
 cd sort-json
 npm install
 ```
