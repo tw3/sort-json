@@ -12,6 +12,10 @@
     "attributes",
     "properties"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tw3/sort-json.git"
+  },
   "author": "Ted Weatherly",
   "license": "MIT",
   "devDependencies": {
