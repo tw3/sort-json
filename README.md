@@ -31,3 +31,9 @@ For example:
 `node sort-json -G "*.txt" -O my-output-files my-input-files json1.json`
 
 ... will sort the file json1.json plus all of the "*.txt" files in the "my-input-files" directory and output the sorted JSON files in the "my-output-files" directory.
+
+Related
+-------
+
+* Here is [a simple online JSON sorter](https://codepen.io/tweatherly/pen/PezvbG) available on codepen.io
+* Here's [another CLI and programmatic GitHub library for sorting JSON files](https://github.com/kesla/sort-json)
