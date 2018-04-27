@@ -2,7 +2,12 @@ sort-json
 ---------
 Sorts the attributes in a JSON file
 
-installation
+Pre-requisites
+--------------
+
+Node.js version 8 or higher
+
+Installation
 ------------
 ```
 git clone https://github.com/tw3/sort-json.git
